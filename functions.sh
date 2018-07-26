@@ -1,4 +1,4 @@
-trim_string() {
+trim_string() { # https://github.com/dylanaraps/pure-bash-bible#trim-leading-and-trailing-white-space-from-string
     : "${1#"${1%%[![:space:]]*}"}"
     : "${_%"${_##*[![:space:]]}"}"
     echo "$_"
