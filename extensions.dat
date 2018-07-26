@@ -1,0 +1,47 @@
+# Improve your code commenting by annotating with alert, informational, TODOs, and more!
+aaron-bond.better-comments
+
+# A customizable extension for colorizing matching brackets
+coenraads.bracket-pair-colorizer
+
+# Syntax Highlighting for MikroTik RouterOS scripts
+cperezabo.routeros-syntax
+
+# XML Formatting, XQuery, and XPath Tools for Visual Studio Code
+dotjoshjohnson.xml
+
+# Official Dracula Theme. A dark theme for many editors, shells, and more
+dracula-theme.theme-dracula
+
+# Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+eamodio.gitlens
+
+# Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Objective-C, Rust, Racket, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D
+formulahendry.code-runner
+
+# REST Client for Visual Studio Code
+humao.rest-client
+
+# Scala support for Visual Studio Code
+itryapitsin.scala
+
+# VSCode extension based on regexper-static
+le0zh.vscode-regexp-preivew
+
+# Kotlin language support for VS Code
+mathiasfrohlich.kotlin
+
+# Rich Go language support for Visual Studio Code
+ms-vscode.go
+
+# Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more
+ms-python.python
+
+# Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files
+peterjausovec.vscode-docker
+
+# Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...
+redhat.java
+
+# Convert Markdown to PDF
+yzane.markdown-pdf
