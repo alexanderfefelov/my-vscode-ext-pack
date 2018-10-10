@@ -43,5 +43,8 @@ peterjausovec.vscode-docker
 # Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...
 redhat.java
 
+# Syntax highlighting for SNMP MIB files
+veracosta.mib
+
 # Convert Markdown to PDF
 yzane.markdown-pdf
