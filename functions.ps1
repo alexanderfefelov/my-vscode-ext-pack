@@ -1,5 +1,5 @@
 function Install($ExtensionId) {
-    code --install-extension $ExtensionId
+    code --install-extension $ExtensionId --force
 }
 
 function Uninstall($ExtensionId) {

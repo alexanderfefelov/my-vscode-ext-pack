@@ -5,7 +5,7 @@ trim_string() { # https://github.com/dylanaraps/pure-bash-bible#trim-leading-and
 }
 
 install() {
-    code --install-extension $1
+    code --install-extension $1 --force
 }
 
 uninstall() {
