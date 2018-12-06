@@ -28,6 +28,9 @@ itryapitsin.scala
 # VSCode extension based on regexper-static
 le0zh.vscode-regexp-preivew
 
+# Provides Camel Case cursor navigation for the Visual Studio Code editor
+maptz.camelcasenavigation
+
 # Kotlin language support for VS Code
 mathiasfrohlich.kotlin
 
