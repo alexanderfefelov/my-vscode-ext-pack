@@ -22,6 +22,9 @@ formulahendry.code-runner
 # REST Client for Visual Studio Code
 humao.rest-client
 
+# Commands for deploying files of your workspace to a destination
+mkloubert.vs-deploy
+
 # Scala support for Visual Studio Code
 itryapitsin.scala
 
