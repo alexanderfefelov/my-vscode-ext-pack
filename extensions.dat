@@ -55,5 +55,8 @@ redhat.java
 # Syntax highlighting for SNMP MIB files
 veracosta.mib
 
+# Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers
+vscjava.vscode-maven
+
 # Convert Markdown to PDF
 yzane.markdown-pdf
