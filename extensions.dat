@@ -40,6 +40,9 @@ maptz.camelcasenavigation
 # Kotlin language support for VS Code
 mathiasfrohlich.kotlin
 
+# Provides syntax highlighting for tickscript DSL used by kapacitor
+mattyjones.vscode-tickscript
+
 # Rich Go language support for Visual Studio Code
 ms-vscode.go
 
