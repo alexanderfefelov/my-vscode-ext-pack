@@ -43,14 +43,14 @@ mathiasfrohlich.kotlin
 # Provides syntax highlighting for tickscript DSL used by kapacitor
 mattyjones.vscode-tickscript
 
+# Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose 
+ms-azuretools.vscode-docker
+
 # Rich Go language support for Visual Studio Code
 ms-vscode.go
 
 # Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more
 ms-python.python
-
-# Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files
-peterjausovec.vscode-docker
 
 # Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...
 redhat.java
