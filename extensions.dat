@@ -28,9 +28,6 @@ humao.rest-client
 # Commands for deploying files of your workspace to a destination
 mkloubert.vs-deploy
 
-# Scala support for Visual Studio Code
-itryapitsin.scala
-
 # VSCode extension based on regexper-static
 le0zh.vscode-regexp-preivew
 
@@ -54,6 +51,9 @@ ms-python.python
 
 # Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...
 redhat.java
+
+# Official Scala Syntax
+scala-lang.scala
 
 # Syntax highlighting for SNMP MIB files
 veracosta.mib
