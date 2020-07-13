@@ -4,6 +4,9 @@ aaron-bond.better-comments
 # Swagger Viewer lets you preview and validate Swagger 2.0 and OpenAPI files as you type in Visual Studio Code
 arjun.swagger-viewer
 
+# An extension that provides live preview, syntax highlighting and snippets for the AsciiDoc format using Asciidoctor flavor
+asciidoctor.asciidoctor-vscode
+
 # A customizable extension for colorizing matching brackets
 coenraads.bracket-pair-colorizer
 
