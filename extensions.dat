@@ -58,6 +58,9 @@ redhat.java
 # Official Scala Syntax
 scala-lang.scala
 
+# Lua Language Server coded by Lua
+sumneko.lua
+
 # Syntax highlighting for SNMP MIB files
 veracosta.mib
 
