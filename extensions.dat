@@ -16,6 +16,12 @@ cperezabo.routeros-syntax
 # Dendron is a hierarchal note taking tool that grows as you do
 dendron.dendron
 
+# Graph viz for Dendron Notes and Schemas
+dendron.dendron-markdown-links
+
+# Shortcuts for Markdown editing
+dendron.dendron-markdown-shortcuts
+
 # XML Formatting, XQuery, and XPath Tools for Visual Studio Code
 dotjoshjohnson.xml
 
