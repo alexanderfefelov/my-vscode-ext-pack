@@ -55,6 +55,9 @@ ms-python.python
 # Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...
 redhat.java
 
+# YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+redhat.vscode-yaml
+
 # Official Scala Syntax
 scala-lang.scala
 
