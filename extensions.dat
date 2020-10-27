@@ -13,6 +13,9 @@ coenraads.bracket-pair-colorizer
 # Syntax Highlighting for MikroTik RouterOS scripts
 cperezabo.routeros-syntax
 
+# Dendron is a hierarchal note taking tool that grows as you do
+dendron.dendron
+
 # XML Formatting, XQuery, and XPath Tools for Visual Studio Code
 dotjoshjohnson.xml
 
