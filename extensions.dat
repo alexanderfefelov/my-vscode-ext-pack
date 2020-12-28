@@ -7,6 +7,9 @@ arjun.swagger-viewer
 # An extension that provides live preview, syntax highlighting and snippets for the AsciiDoc format using Asciidoctor flavor
 asciidoctor.asciidoctor-vscode
 
+# Clojure & ClojureScript Interactive Programming
+betterthantomorrow.calva
+
 # A customizable extension for colorizing matching brackets
 coenraads.bracket-pair-colorizer
 
