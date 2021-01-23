@@ -58,11 +58,14 @@ mathiasfrohlich.kotlin
 # Provides syntax highlighting for tickscript DSL used by kapacitor
 mattyjones.vscode-tickscript
 
-# Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose 
+# Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose
 ms-azuretools.vscode-docker
 
 # Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more
 ms-python.python
+
+# An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set
+ms-vscode-remote.vscode-remote-extensionpack
 
 # Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...
 redhat.java
