@@ -43,6 +43,9 @@ golang.Go
 # REST Client for Visual Studio Code
 humao.rest-client
 
+# Rich PlantUML support for Visual Studio Code
+jebbs.plantuml
+
 # Commands for deploying files of your workspace to a destination
 mkloubert.vs-deploy
 
